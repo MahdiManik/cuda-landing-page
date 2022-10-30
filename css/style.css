@@ -151,7 +151,7 @@ nav {
      height: 110px;
 }
 }
-#skill h1 {
+#skill h3 {
     color: black;
 }
 #skill p {
@@ -161,11 +161,11 @@ nav {
     background-color: #e7f1f8;
     color: #3c4761;
 }
-#team h1 {
-    color: black;
+#team h2 {
+    color: #3c4761;
 }
 #team p {
-    color: black;
+    color: #3c4761;
 }
 .team-box img {
     height: 180px;
@@ -179,7 +179,7 @@ nav {
     background-color: #ffdd99;                                                                                                                                                                                     
 }
 }
-#portfolio h1 {
+#portfolio h3 {
     color: black;
 }
 #portfolio p {
