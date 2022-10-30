@@ -150,9 +150,22 @@ nav {
 .service-box img{
      height: 110px;
 }
+}
+#skill h1 {
+    color: black;
+}
+#skill p {
+    color: black;
+}
 #team {
     background-color: #e7f1f8;
     color: #3c4761;
+}
+#team h1 {
+    color: black;
+}
+#team p {
+    color: black;
 }
 .team-box img {
     height: 180px;
@@ -165,7 +178,13 @@ nav {
 #portfolio { 
     background-color: #ffdd99;                                                                                                                                                                                     
 }
-
+}
+#portfolio h1 {
+    color: black;
+}
+#portfolio p {
+    color: black;
+}
 
 .portfolio-btn-part button {
     padding: 5px 20px;
