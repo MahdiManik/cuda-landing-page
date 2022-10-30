@@ -151,22 +151,12 @@ nav {
      height: 110px;
 }
 }
-#skill h3 {
-    color: black;
-}
-#skill p {
-    color: black;
-}
+
 #team {
     background-color: #e7f1f8;
     color: #3c4761;
 }
-#team h2 {
-    color: #3c4761;
-}
-#team p {
-    color: #3c4761;
-}
+
 .team-box img {
     height: 180px;
 }
@@ -177,13 +167,6 @@ nav {
 }
 #portfolio { 
     background-color: #ffdd99;                                                                                                                                                                                     
-}
-}
-#portfolio h3 {
-    color: black;
-}
-#portfolio p {
-    color: black;
 }
 
 .portfolio-btn-part button {
@@ -308,6 +291,26 @@ footer a {
     text-transform: uppercase;
     text-decoration: none;
     color: #ffffff;
+}
+
+}
+#portfolio h3 {
+    color: black;
+}
+#portfolio p {
+    color: black;
+}
+#team h2 {
+    color: black;
+}
+#team p {
+    color: #3c4761;
+}
+#skill h3 {
+    color: black;
+}
+#skill p {
+    color: black;
 }
 
 
