@@ -198,11 +198,9 @@ nav {
 }
 #about {
     background-color: #d74680;
-    color: ;
-}
-.writing-part {
     color: #ffffff;
 }
+
 .about-img {
     width: 100px;
     padding: 0px 75px;
@@ -224,6 +222,7 @@ nav {
 }
 #touch {
     background-color: #3c5499;
+    color: #ffffff;
 }
 input {
     background: #273a71;
@@ -292,25 +291,3 @@ footer a {
     text-decoration: none;
     color: #ffffff;
 }
-
-}
-#portfolio h3 {
-    color: black;
-}
-#portfolio p {
-    color: black;
-}
-#team h2 {
-    color: black;
-}
-#team p {
-    color: #3c4761;
-}
-#skill h3 {
-    color: black;
-}
-#skill p {
-    color: black;
-}
-
-
